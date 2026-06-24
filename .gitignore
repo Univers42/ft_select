@@ -1,0 +1,12 @@
+# build artifacts
+build/
+ft_select
+*.o
+*.d
+
+# dev tooling (not part of the deliverable)
+tools/
+
+# Claude working files
+CLAUDE.md
+.claude/
